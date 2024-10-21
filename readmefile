@@ -1,0 +1,9 @@
+Program- Use Case -1 – Batch Job
+1. Create a simple batch job that reads data from a CSV file, processes it, and then writes the 
+processed data to another file
+• Scheduler
+• File IO operations
+• Logging
+• Exception handling
+• Unit Test cases (Junit - Diffblue)
+• Sonar Lint plugin (IDE)
